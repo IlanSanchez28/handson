@@ -2,10 +2,10 @@
 # on Windows or when using a GPU. Please see the installation
 # instructions in INSTALL.md
 
-##### Core scientific packages
+####### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.3.4
-numpy==1.22.0
+numpy==1.21.4
 pandas==1.2.2
 scipy==1.6.0
 
